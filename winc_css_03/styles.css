@@ -1,0 +1,23 @@
+h1{
+    color:rgb(57, 80, 150)
+}
+h2{
+    color:rgb(72, 118, 177)
+}
+h3{
+    color:rgb(126, 172, 219)
+}
+
+body{
+    background-image: linear-gradient(white, white, rgb(181, 201, 228), rgb(167, 191, 223));
+
+    font-family: verdana,Verdana, Geneva, Tahoma, sans-serif;
+
+    line-height:2em;
+
+    color:rgb(66, 66, 66)
+}
+
+.border {
+    border-bottom: 1px solid black
+}
